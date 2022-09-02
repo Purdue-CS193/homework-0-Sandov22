@@ -16,7 +16,7 @@ Syntax highlighted code block
 
 - Coding!
 - Interactive!
-- Memes!
+- Memes! 
 
 1. Numbered
 2. List
